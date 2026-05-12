@@ -6,6 +6,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Exercicios/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Projetos/Calculadora/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Projetos/ProjetoSistemaDeLogin/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Projetos/Pedra papel tesoura/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
